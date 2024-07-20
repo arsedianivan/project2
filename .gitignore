@@ -1,5 +1,7 @@
 __pycache__/
-*.pyc
-.env
+*.py[cod]
 *.env
-*.sqlite3
+.DS_Store
+.idea/
+.vscode/
+.venv/
